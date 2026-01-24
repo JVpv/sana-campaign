@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Auracan.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auracan"
+              "title": "README"
             }
           }
         ]
@@ -196,14 +196,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c02f792f294e9a1",
+  "active": "e76e6741d7efea91",
   "lastOpenFiles": [
     "Locations/Auracan.md",
-    "Locations/Taverna.md",
     "Welcome.md",
+    "README.md",
+    "Locations/Taverna.md",
     "Locations/A Fortaleza Abandonada.md",
     "Encounters/Sombras em Auracan.md",
     "Characters/Nina.md",
