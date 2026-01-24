@@ -1,0 +1,2 @@
+
+Início da aventura -> [[Auracan]]

@@ -1,0 +1,2 @@
+
+O enérgico taverneiro de Auracan. Trata-se de um anão "fordo", com seus respeitáveis metro e meio de altura, trajando uma túnica branca sobreposta por um avental marrom-escuro. e calças de mesma cor, com botas pretas de couro batido. Suas características mais marcantes são uma perfeita careca reluzente e uma enorme e grossa barba fechada de cor castanho-escuro, completa com tranças em cada ponta do bigode. Possui um riso forte e alto, e uma energia de "paizão" com todos.
