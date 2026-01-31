@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Locations/A Fortaleza Abandonada/Portal do Plano das Sombras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b438f19f8385fd96",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c02f792f294e9a1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Portal do Plano das Sombras"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Locations/Auracan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Auracan"
             }
           },
           {
@@ -167,6 +151,16 @@
             }
           },
           {
+            "id": "4963d858ab8adadb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "b5b47903dcb9c08d",
             "type": "leaf",
             "state": {
@@ -181,12 +175,12 @@
               "title": "Outline of Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 630.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,16 +196,21 @@
   },
   "active": "e76e6741d7efea91",
   "lastOpenFiles": [
-    "Locations/Auracan.md",
-    "Welcome.md",
-    "README.md",
+    "Locations/A Fortaleza Abandonada/Torre do Mago.md",
+    "Locations/A Fortaleza Abandonada/Portal do Plano das Sombras.md",
+    "Locations/A Fortaleza Abandonada/Armazém em Ruínas.md",
+    "Locations/A Fortaleza Abandonada/Salões Internos.md",
+    "Locations/A Fortaleza Abandonada/Pátio da Fortaleza.md",
+    "Locations/A Fortaleza Abandonada/A Fortaleza Abandonada.md",
     "Locations/Taverna.md",
-    "Locations/A Fortaleza Abandonada.md",
+    "Locations/A Fortaleza Abandonada",
+    "Locations/Auracan.md",
+    "README.md",
+    "Locations/Plano das Sombras.md",
+    "Welcome.md",
     "Encounters/Sombras em Auracan.md",
     "Characters/Nina.md",
     "Characters/Beto.md",
-    "Locations/Plano das Sombras.md",
-    "Locations/Untitled",
     "Encounters",
     "Locations",
     "Characters"
